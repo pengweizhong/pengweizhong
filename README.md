@@ -72,7 +72,7 @@
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=pengweizhong&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
 
 <!-- 最常用语言 -->
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pengweizhong&layout=compact&theme=transparent&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pengweizhong&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
 
 </div>
 
