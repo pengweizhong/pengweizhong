@@ -81,10 +81,9 @@
 <div align="center">
 
 <!-- 连续贡献 Streak -->
-<img height="180" src="https://streak-stats.demolab.com?user=pengweizhong&theme=transparent&hide_border=true" />
+<img height="180" src="https://streak-stats.demolab.com?user=pengweizhong&theme=github-dark&hide_border=true&date_format=%5BY.%5Dn.j" />
 
 </div>
-
 ---
 
 <div align="center">
