@@ -61,14 +61,6 @@
 
 </div>
 
-# 📈 活跃度
-
-<div align="center">
-
-<img src="./Home.assets/graph.svg" />
-
-</div>
-
 # 📬 联系我
 
 - GitHub: `https://github.com/pengweizhong`
