@@ -43,23 +43,57 @@
 
 ### Backend
 
-`https://img.shields.io/badge/Java-17+-orange?style=flat-square` `https://img.shields.io/badge/Spring%20Boot-2.x%2F3.x-brightgreen?style=flat-square` `https://img.shields.io/badge/MyBatis-Mapper-red?style=flat-square` `https://img.shields.io/badge/SQL-Design-blue?style=flat-square`
+![Java](https://img.shields.io/badge/Java-8+-orange?style=flat-square)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.x%2F3.x%2F4.x-brightgreen?style=flat-square)
+![MyBatis](https://img.shields.io/badge/MyBatis-Mapper-red?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-Design-blue?style=flat-square)
+![SQL](https://img.shields.io/badge/DynamicSQL2-ALL-green)
 
 ### Infra
 
-`https://img.shields.io/badge/Linux-Arch%2FUbuntu-blue?style=flat-square` `https://img.shields.io/badge/Nginx-Server-green?style=flat-square` `https://img.shields.io/badge/GPG-Signing-yellow?style=flat-square` `https://img.shields.io/badge/Maven-Central-purple?style=flat-square`
+![Linux](https://img.shields.io/badge/Linux-Arch%2FUbuntu-blue?style=flat-square)
+![Nginx](https://img.shields.io/badge/Nginx-Server-green?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GPG](https://img.shields.io/badge/GPG-Signing-yellow?style=flat-square)
+![Maven Central](https://img.shields.io/badge/Maven-Central-purple?style=flat-square)
 
 ### Other
 
-`https://img.shields.io/badge/Design-Minimalism-black?style=flat-square` `https://img.shields.io/badge/Music-Visualizer-pink?style=flat-square`
+![Flutter](https://img.shields.io/badge/Flutter-CrossPlatform-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Design](https://img.shields.io/badge/Design-Minimalism-black?style=flat-square)
+![Music Visualizer](https://img.shields.io/badge/Music-Visualizer-pink?style=flat-square)
 
 # 📊 GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=pengweizhong&show_icons=true&theme=transparent&hide_border=true" /> <img height="160" src="./Home.assets/1768806599831-2.svg" />
+<!-- GitHub 统计卡片 -->
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=pengweizhong&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+
+<!-- 最常用语言 -->
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pengweizhong&layout=compact&theme=transparent&hide_border=true" />
 
 </div>
+
+---
+
+<div align="center">
+
+<!-- 连续贡献 Streak -->
+<img height="180" src="https://streak-stats.demolab.com?user=pengweizhong&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- 活跃度图 -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pengweizhong&theme=github-compact&hide_border=true" />
+
+</div>
+
 
 # 📬 联系我
 
