@@ -4,7 +4,7 @@
 
 # 🚀 核心项目
 
-## 🧩 dynamic-sql2
+## 🧩 [Dynamic-SQL2](https://github.com/pengweizhong/dynamic-sql2)
 
 > **MyBatis 动态 SQL 增强框架**   不是 ORM，不是替代 SQL，而是让 SQL 更安全、更可维护、更可组合。
 
@@ -25,19 +25,22 @@
 - 与 MyBatis 无缝集成，可渐进式引入
 - 企业级复杂查询的利器
 
-## 🎵 yeah_music
+## 🎵 [Yeah Music](https://github.com/pengweizhong/yeah_music)
 
 > **一个有灵魂的音乐可视化播放器**   技术 × 美学 × 情绪表达
 
 🔗 项目地址： `https://github.com/pengweizhong/yeah_music`
 
-### ✨ 项目亮点（预）
+### ✨ 项目亮点
 
-- 音乐频谱、波形、动态视觉效果
-- 极简 UI，干净克制
-- 可扩展主题与动效
-- 技术之外的审美表达
-- 这是我的第一个flutter项目，正在积极开发中
+- 本地优先、完全免费，多目录扫描入库，无付费解锁
+- 跨平台 Android、macOS、Windows、Linux 统一体验
+- OneDrive 云端曲库：网盘索引、浏览播放、批量上传/下载与传输队列
+- 四段式沉浸式播放页：桌面端封面 / 歌词 / 分屏 / 剧院四种布局
+- 歌词体验拉满：内嵌 LRC、多行与多翻译同轴展示，通知与车机可同步样式
+- 可定制的视觉主题：渐变背景、壁纸虚化压暗、歌单封面自定义渐变
+- 不止播放器的工具箱：艺术家 / 专辑浏览、内嵌标签与歌词编辑、听歌识曲（AudD / ACRCloud）
+- 从自用场景长出来的播放器，功能与细节仍在积极打磨，欢迎 Star / Issue / Fork 一起完善
 
 # 🧠 技术栈
 
